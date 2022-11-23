@@ -28,4 +28,5 @@ Window object
     The window is part of BOM, not DOM.
     Properties of the window object cannot be accessed by the document object.
     example:
-        window.innerHeight : will return the height of the content area of the browser
+        window.innerHeight :  will return the height of the content area of the browser
+
